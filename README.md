@@ -1,5 +1,3 @@
-[![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=dmzlingyin)]()
-
 ## Fancy seeing you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
 I am Wenchao Lv, currently pursuing my master's degree majoring in computer science from [Institute of Disaster Prevention](https://cidp.edu.cn/). I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. 
