@@ -6,6 +6,7 @@ I am Wenchao Lv, currently pursuing my master's degree majoring in computer scie
 ## ⚡ Technologies
 ![Golang](https://img.shields.io/badge/-Golang-black?style=flat-square&logo=Go)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![C](https://img.shields.io/badge/-C-black?style=flat-square&logo=C)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
 ![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=Redis)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
