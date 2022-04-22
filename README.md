@@ -4,7 +4,7 @@ I am Wenchao Lv, currently pursuing my master's degree majoring in computer scie
 
 
 ## ⚡ Technologies
-![Golang](https://img.shields.io/badge/-Golang-black?style=flat-square&logo=Golang)
+![Golang](https://img.shields.io/badge/-Golang-black?style=flat-square&logo=Go)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
 ![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=Redis)
@@ -14,9 +14,6 @@ I am Wenchao Lv, currently pursuing my master's degree majoring in computer scie
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=dmzlingyin&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dmzlingyin&hide=TeX&layout=compact)
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=dmzlingyin.dmzlingyin)
 
 <!--
 **dmzlingyin/dmzlingyin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
