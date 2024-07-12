@@ -1,6 +1,6 @@
 ## Fancy seeing you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
-I am Wenchao Lv, currently pursuing my master's degree majoring in computer science from [Institute of Disaster Prevention](https://www.cidp.edu.cn/). I am a Geek & a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. 
+I am a Geek & a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. 
 
 
 ## ⚡ Technologies
