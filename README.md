@@ -6,13 +6,14 @@ I am a Geek & a tech enthusiast & an open-source advocate. I am always open to c
 ## ⚡ Technologies
 ![Golang](https://img.shields.io/badge/-Golang-black?style=flat-square&logo=Go)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=Java)
 ![C](https://img.shields.io/badge/-C-black?style=flat-square&logo=C)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
-![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=Redis)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=MongoDB)
+![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=Redis)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Vim](https://img.shields.io/badge/-VIM-181717?style=flat-square&logo=vim)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=dmzlingyin&count_private=true&show_icons=true&include_all_commits=true)
